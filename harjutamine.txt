@@ -2,3 +2,5 @@ GitHub on Ameerika firma, mis pakub veebimajutusteenust tarkvaraarenduseks, kasu
 GitHub on Microsofti tütarfirma alates aastast 2018, mil Microsoft ostis GitHubi 7,5 miljardi dollari eest.
 GitHub pakub tasu eest teenust IT-professionaalidele, töörühmadele ja ettevõtetele.
 GitHubi tasuta teenust kasutatakse tihtipeale avatud lähtekoodiga tarkvara arenduseks.
+
+Mina saan GitHubi kasutada enda koolitööde hoiustamiseks. Kõik programmeerimise failid saan pushida GitHubi.
